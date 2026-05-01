@@ -56,8 +56,7 @@ Structured Plain-English Response
 ├── clean_articles.py               # Clean & normalize text
 ├── build_index.py                  # Create FAISS index
 ├── constitution.index              # Vector index
-├── data/
-│   └── constitution_articles_clean.jsonl
+├── constitution_articles_clean.jsonl
 ├── requirements.txt
 ├── README.md
 └── .gitignore
